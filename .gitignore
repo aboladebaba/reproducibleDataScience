@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# prevent data from being uploaded
+Fremont.csv
+
